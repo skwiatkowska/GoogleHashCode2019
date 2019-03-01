@@ -1,4 +1,5 @@
-# GoogleHashCode2019
+# Google Hash Code 2019
+Photo slideshow.
 First participation in such a project made in a four-person group. All written in Java.
 
 Assignment description is included in the 'problem_statement' file. 
